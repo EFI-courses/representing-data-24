@@ -19,5 +19,5 @@ Set 3
 
 Set 4 
 
-- 
+- Specific cases; Geo data, text visualization and working with different file types
 
